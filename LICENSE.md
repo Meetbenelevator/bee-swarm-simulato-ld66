@@ -1,4 +1,4 @@
-#  
+#  Experience bee swarm simulator like never before with custom Scripts for bee swarm simulator, the #1 Script. Includes fly and auto-farm for
 
 
 
